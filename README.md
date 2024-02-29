@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Robério Albuquerque
 
-- 🔭 Hoje trabalho em desenvolvimento de aplicações para a Prefeitura, tanto no front-end quanto no back-end.
-- 🌱 Estudando JavaScript e Bancos de dados.
+- 🔭 Hoje trabalho em desenvolvimento de aplicações para a Stefanini Group.
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3r1u&show_icons=true&theme=dark)
