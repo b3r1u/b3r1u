@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Robério Albuquerque
 
-- 🔭 Hoje trabalho em desenvolvimento de aplicações para a Stefanini Group.
+- 🔭 Hoje trabalho como desenvolvedor Front-End na Stefanini Group.
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3r1u&show_icons=true&theme=dark)
