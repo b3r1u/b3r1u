@@ -1,10 +1,7 @@
 ### Olá, Eu sou o Robério Albuquerque
 
-- 🔭 Hoje trabalho como desenvolvedor Front-End na Stefanini Group.
+- 🔭 Hoje trabalho como desenvolvedor FullStack na Stefanini Group.
  ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3r1u&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3r1u&layout=compact&theme=dark)
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Berio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
